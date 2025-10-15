@@ -1,0 +1,6 @@
+# IFRNET
+opencv-python==4.12.0.88
+torch>=1.0.0
+tqdm==4.67.1
+imageio==2.37.0
+numpy>=1.0.0
